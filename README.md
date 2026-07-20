@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I am Patrick Dave Patana  
-*Full Stack Developer | Graduating BSIT Student - Davao del Norte State College*
+*Full Stack Developer | ML Engineer*
 
 ---
 
