@@ -71,4 +71,7 @@
 <img src="./assets/certificates/35e55b9a-9ddf-4f20-8a3a-ba8670e35e79.jpg" width="600" alt="Seminar Certificate 1">
 <img src="./assets/certificates/ebf7e83e-cab7-4bfc-a59c-54923ae3f9ba.jpg" width="600" alt="Color Theory Certificate">
 
+#### ASP NET Core
+
+
 </div>
