@@ -72,6 +72,7 @@
 <img src="./assets/certificates/ebf7e83e-cab7-4bfc-a59c-54923ae3f9ba.jpg" width="600" alt="Color Theory Certificate">
 
 #### ASP NET Core
+<img src="./assets/certificates/asp.net.jpg" width="600" alt="IT Olympiad 2024 Certificate">
 
-
+#### Data Mining
 </div>
